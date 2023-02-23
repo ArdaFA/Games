@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 	
-	// we need an array to save the value if cards
+	// we need an array to save the value of cards
 	
 	private static Card[][] cards = new Card[5][5];
 
