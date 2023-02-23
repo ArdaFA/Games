@@ -47,6 +47,8 @@ public class Main {
 		
 		System.out.println("Welcomte to the Guessing Game! \n"
 				+ "You can enter the coordinates (row and column) with a space between");
+		
+		//GameLoop
 		while (isFinished() == false) {
 			
 			gameBoard();
